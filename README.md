@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [annenduati](https://github.com/daydroidmuchiri)
+- [Anne Nduati](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
